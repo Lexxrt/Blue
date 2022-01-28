@@ -1,13 +1,13 @@
 <h2><strong>Blue</strong></h2>
 
-- *Usage:*
+*Usage:*
 
 1. Install Libraries: `chmod +x ./install_libs.sh && ./install_libs.sh` 📜
 2. Start up Blue: `python3 Blue.py` 🚀
 
 > <img src="img/pic.png">
 
-- *Options:*
+*Options:*
 
 1. Whois Lookup: `Preforms a Whois lookup`
 2. DNS Lookup: `Preforms a DNS lookup`
