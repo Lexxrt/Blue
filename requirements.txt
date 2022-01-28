@@ -1,4 +1,2 @@
-beautifulsoup4
-python-nmap
+bs4
 requests
-urllib3
